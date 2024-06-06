@@ -1,0 +1,9 @@
+Welcome to Everstone Not Web Browser.
+
+This app acts like web browser, but it is not.
+It uses .txt files as webpages.
+It's nothing special but it works!
+If you want to create your own page only for you, go to C:/EverstoneNWB/Pages and create new text file.
+You can name it however you want, but be sure you remember the full name.
+
+Enjoy!

@@ -1,0 +1,7 @@
+Hello,
+
+First, you need to install python.
+Then to install Everstone Not Web Browser, you need to run Install.bat
+Don't run Install.bat more than one times.
+When it's done, Run Everstone Not Web Browser.py
+Enter "Welcome.txt"
