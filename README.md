@@ -1,2 +1,2 @@
 # Everstone-Not-Web-Browser
-Not a web browser, by:Armarik
+Not a web browser, by: Armarik
